@@ -1,4 +1,4 @@
-# 🌐 Projeto Final HTML — Portfólio Pessoal
+# 🌐 Projeto Aprendizado HTML — Portfólio Pessoal
 
 > Meu primeiro projeto em HTML. Desenvolvido como trabalho final do curso de HTML.
 
